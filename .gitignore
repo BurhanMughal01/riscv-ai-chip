@@ -1,0 +1,13 @@
+*_sim
+test_sim
+rv_pipe_sim
+sys32_test
+sys32_deep
+digit_sim
+*.vcd
+*_synth.v
+_mut.v
+_m
+*.o
+*.out
+obj_dir/
